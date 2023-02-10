@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8d65d830c0d675643b342a26dd55028e
+  m_SerializeEntries:
+  - m_GUID: 130de1c242a292c4ba2cb4f01978ee53
+    m_Address: "Assets/Sounds/BGM/\u30C8\u30E9\u30F3\u30D7\u30FB\u30B2\u30FC\u30E0.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BGM
+  - m_GUID: 853220a6aa5158545a8d8062b885f39c
+    m_Address: Assets/Sounds/SE/cards-shuffling-87543.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SE
+  - m_GUID: 366feb073c3df294a82fbc969bf5b9ec
+    m_Address: Assets/Sounds/SE/flipcard-91468.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SE
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c25db4d12e5111b448fe3c3f49d46a5e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c332baab562e6ae468f0bcd44005bb76, type: 2}
+    - {fileID: 11400000, guid: eb8caaa1425de7948b093616f83e19bf, type: 2}
