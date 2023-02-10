@@ -1,6 +1,9 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "com.unity.addressables": "1.19.19",
+=======
+>>>>>>> d0ae201be440cdb76a07d5150fc41f55c343f176
     "com.unity.collab-proxy": "1.17.2",
     "com.unity.feature.2d": "1.0.0",
     "com.unity.ide.rider": "3.0.15",
